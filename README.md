@@ -4,8 +4,7 @@
 * User can generate an array, adjust its size and speed of the sorting process after which Bubble, Selection, Insertion, Merge, Quick or Heap sort can be illustrated.
 * Size and speed will be shown in real-time when the user will seek to left or right in the sliders
 
-<!-- <h3><a href="https://sorting-visualiser-1999.herokuapp.com/">Click here to visit live website</a><h3> -->
-<!--[Click here to visit live website](https://sorting-visualiser-1999.herokuapp.com/)
+
 
 <!-- <img src="images/screenshot.jpg"> -->
 Screenshot-1
