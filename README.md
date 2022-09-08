@@ -8,7 +8,7 @@
 
 <!-- <img src="images/screenshot.jpg"> -->
 Screenshot-1
-![Screenshot](/images/screenshot1.jpg)
+![Screenshot](https://github.com/mukul2345/Sorting_visualizer/blob/main/img/screenshot1.jpg)
 
 Screenshot-2
-![Screenshot](/images/screenshot2.jpg)
+![Screenshot](https://github.com/mukul2345/Sorting_visualizer/blob/main/img/screenshot2.jpg)
